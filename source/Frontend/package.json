@@ -1,0 +1,17 @@
+{
+  "name": "DevLeadWebPage",
+  "private": true,
+  "version": "0.0.1",
+  "description": "HOP platform",
+  "keywords": [],
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anonymous"
+  },
+  "author": "SMCS",
+  "license": ""
+}
